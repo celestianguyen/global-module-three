@@ -1,0 +1,12 @@
+Display the result of the following statements
+Problem
+What is the output of the following code?
+int i = 2;
+System.out.println(i++);
+System.out.println(++i);
+Goal
+Understand how the increment operator (++) works in post-increment and pre-increment.
+
+
+Output: 2
+        4
